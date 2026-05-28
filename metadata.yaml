@@ -1,35 +1,5 @@
 homepage: "www.taboola.com",
 documentation: "https://help.taboola.com/hc/en-us/articles/360033655813-Implementing-the-Taboola-Pixel-Template-for-Google-Tag-Manager",
 versions:
-  - sha: 08875c36f407517dcf4ab06b8c286e24032c5cdf
-    changeNotes: Support for ga4 data layer, fix legacy integrations, property collection update
-  - sha: 797d4e2410229d2fc2843eebbd2a8d3b5d403fa3
-    changeNotes: Support for ga4 data layer, fix legacy integrations
-  - sha: 1b1b879ed1d7f73ca8227357802e70f9ca0da997
-    changeNotes: Support for ga4 data layer
-  - sha: ea812c9dc032436b0f5164c3e6d293309ba74bce
-    changeNotes: added email variable
-  - sha: fa681b0e532e2b9e40020e76de8328d8b544ef38
-    changeNotes: added unified_id variable
-  - sha: cb0a449bd0d1d6681e89719aba6cd08f64588cb4
-    changeNotes: Fixed custType handling
-  - sha: 5bd9c6aa3c1880fa9637692ab77fbca5c44c2eb5
-    changeNotes: Added taboola base pixel - page_view event and added customer_type as an optional field in purchase event
-  - sha: 3a7b3a624933861303d6880657d0eec70efb5d93
-    changeNotes: Added taboola base pixel - page_view event + Added customer_type as an optional field in purchase event
-  - sha: b7a5404307b3f89feb5434c3e037571825af6d9e
-    changeNotes: Add validation for Enhanced ecommerce data layer
-  - sha: 98706d8924742b92680cb0e90928ec4c663b8698
-    changeNotes: Fix Enhanced pixel
-  - sha: 3a867ab6890e16ea9ddc015fc2d15aceed93ecaf
-    changeNotes: Add tooltip for Enhanced ecommerce checkbox
-  - sha: 8a18af50a45ff082289c7eb56eea9f23ac8daac2
-    changeNotes: Add support for Enhanced ecommerce data layer
-  - sha: 729a54fe82c0f9a573fdf14667fc73d5f3bed414
-    changeNotes: Making product ids optional for category view events
-  - sha: bd20c5a791cb244b53adfb8880a52886bfe01299
-    changeNotes: Added campaign ids field
-  - sha: 0e26d731528cb5ac0e36a82a0590548e56d09902
-    changeNotes: Change display name
-  - sha: 8eb868adb3cbdca7a19a427c4f5e349a5383c150
+  - sha: ef77b77825bb14032f10eaae0d2c32fe38b603da
     changeNotes: Initial release
