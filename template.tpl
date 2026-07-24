@@ -1,23 +1,20 @@
-﻿___TERMS_OF_SERVICE___
-
-By creating or modifying this file you agree to Google Tag Manager's Community
-Template Gallery Developer Terms of Service available at
-https://developers.google.com/tag-manager/gallery-tos (or such other URL as
-Google may provide), as modified from time to time.
-
-___INFO___
+﻿___INFO___
 
 {
   "displayName": "Realize Pixel",
-  "description": "Realize powers native performance ads on premium editorial sites. Use the Realize Pixel template to easily track your campaigns' performance, set up customized conversions and to build custom audiences for retargeting.",
-  "categories": ["MARKETING","CONVERSION_TRACKING", "ADVERTISING"],
-  "__wm": "VGVtcGxhdGUtQXV0aG9yX1RhYm9vbGEtUGl4ZWwtU2ltby1BaGF2YQ==",
+  "description": "",
+  "categories": [
+    "MARKETING",
+    "CONVERSION_TRACKING",
+    "ADVERTISING"
+  ],
+  "__wm": "VGVtcGxhdGUtQXV0aG9yX1RhYm9vbGEtUGl4ZWwtU2ltby1BaGF2YQ\u003d\u003d",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
   "version": 1,
   "brand": {
-    "thumbnail": "data:image/png;base64,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",
+    "thumbnail": "data:image/png;base64,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\u003d",
     "displayName": "Realize",
     "id": "brand_dummy"
   },
@@ -50,11 +47,11 @@ ___TEMPLATE_PARAMETERS___
     "type": "RADIO",
     "radioItems": [
       {
-        "displayValue": "Base pixel",
+        "displayValue": "Base Pixel",
         "value": "page_view"
       },
       {
-        "displayValue": "Event pixel",
+        "displayValue": "Event Pixel",
         "value": "event"
       }
     ]
@@ -103,8 +100,12 @@ ___TEMPLATE_PARAMETERS___
         "value": "view_content"
       },
       {
-        "displayValue": "[Custom]",
-        "value": "custom"
+        "value": "category_view",
+        "displayValue": "category_view"
+      },
+      {
+        "value": "custom",
+        "displayValue": "[Custom]"
       }
     ],
     "enablingConditions": [
@@ -145,141 +146,608 @@ ___TEMPLATE_PARAMETERS___
     ]
   },
   {
+    "type": "RADIO",
+    "name": "eventStructure",
+    "displayName": "Event Structure",
+    "radioItems": [
+      {
+        "value": "ga4",
+        "displayValue": "Use Google Analytics 4 data layer structure",
+        "help": "Select this if your site uses a data layer and event data is sent with the Google Analytics 4 structure."
+      },
+      {
+        "value": "manual",
+        "displayValue": "Configure event parameters manually",
+        "help": "Select this if your site does not use a data layer. You will have to configure the data for the selected event manually with GTM variables.",
+        "subParams": [
+          {
+            "type": "CHECKBOX",
+            "name": "addProductIds",
+            "checkboxText": "Product IDs",
+            "simpleValueType": true,
+            "subParams": [
+              {
+                "type": "SELECT",
+                "name": "productIds",
+                "displayName": "",
+                "macrosInSelect": true,
+                "selectItems": [],
+                "simpleValueType": true,
+                "help": "Select the GTM Variable that returns Product IDs (SKUs). Example: [“sku1”, “sku2”]",
+                "enablingConditions": [
+                  {
+                    "paramName": "addProductIds",
+                    "paramValue": true,
+                    "type": "EQUALS"
+                  }
+                ]
+              }
+            ],
+            "help": "Select the GTM variable that returns Product IDs (SKUs). Example: [“sku1”, “sku2”]",
+            "enablingConditions": [
+              {
+                "paramName": "eventName",
+                "paramValue": "add_to_cart",
+                "type": "EQUALS"
+              },
+              {
+                "paramName": "eventName",
+                "paramValue": "add_to_wishlist",
+                "type": "EQUALS"
+              },
+              {
+                "paramName": "eventName",
+                "paramValue": "search",
+                "type": "EQUALS"
+              },
+              {
+                "paramName": "eventName",
+                "paramValue": "start_checkout",
+                "type": "EQUALS"
+              },
+              {
+                "paramName": "eventName",
+                "paramValue": "view_content",
+                "type": "EQUALS"
+              },
+              {
+                "paramName": "eventName",
+                "paramValue": "category_view",
+                "type": "EQUALS"
+              }
+            ]
+          },
+          {
+            "type": "CHECKBOX",
+            "name": "addCartDetails",
+            "checkboxText": "Cart Details",
+            "simpleValueType": true,
+            "help": "Select the GTM variable that returns an array of objects containing the product ID, quantity and the unit price of each item in the user\u0027s cart. Example: [{productId: \u0027sku1\u0027, quantity: 3, price: 22.45}, {productId: \u0027sku2\u0027, quantity: 4, price: 15.76}]",
+            "enablingConditions": [
+              {
+                "paramName": "eventName",
+                "paramValue": "make_purchase",
+                "type": "EQUALS"
+              }
+            ],
+            "subParams": [
+              {
+                "type": "SELECT",
+                "name": "cartDetails",
+                "displayName": "",
+                "macrosInSelect": true,
+                "selectItems": [],
+                "simpleValueType": true,
+                "enablingConditions": [
+                  {
+                    "paramName": "addCartDetails",
+                    "paramValue": true,
+                    "type": "EQUALS"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "CHECKBOX",
+            "name": "addOrderId",
+            "checkboxText": "Order ID",
+            "simpleValueType": true,
+            "enablingConditions": [
+              {
+                "paramName": "eventName",
+                "paramValue": "make_purchase",
+                "type": "EQUALS"
+              }
+            ],
+            "help": "Select the GTM variable that returns the order ID of the current transaction. This ID should be unique per order.",
+            "subParams": [
+              {
+                "type": "SELECT",
+                "name": "orderId",
+                "macrosInSelect": true,
+                "selectItems": [],
+                "simpleValueType": true,
+                "enablingConditions": [
+                  {
+                    "paramName": "addOrderId",
+                    "paramValue": true,
+                    "type": "EQUALS"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "CHECKBOX",
+            "name": "addCustType",
+            "checkboxText": "Customer Type",
+            "simpleValueType": true,
+            "enablingConditions": [
+              {
+                "paramName": "eventName",
+                "paramValue": "make_purchase",
+                "type": "EQUALS"
+              }
+            ],
+            "help": "Select the GTM variable that returns the customer type, where 0 means this visitor is an existing customer and 1 means this visitor is a new customer.",
+            "subParams": [
+              {
+                "type": "SELECT",
+                "name": "custType",
+                "macrosInSelect": true,
+                "selectItems": [],
+                "simpleValueType": true,
+                "enablingConditions": [
+                  {
+                    "paramName": "addCustType",
+                    "paramValue": true,
+                    "type": "EQUALS"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "CHECKBOX",
+            "name": "addCategory",
+            "checkboxText": "Category",
+            "simpleValueType": true,
+            "enablingConditions": [
+              {
+                "paramName": "eventName",
+                "paramValue": "category_view",
+                "type": "EQUALS"
+              }
+            ],
+            "help": "Select the GTM variable that returns the name of the category being viewed. Example: “Women\u0027s Shoes”",
+            "subParams": [
+              {
+                "type": "SELECT",
+                "name": "category",
+                "macrosInSelect": true,
+                "selectItems": [],
+                "simpleValueType": true,
+                "enablingConditions": [
+                  {
+                    "paramName": "addCategory",
+                    "paramValue": true,
+                    "type": "EQUALS"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "CHECKBOX",
+            "name": "addCategoryId",
+            "checkboxText": "Category ID",
+            "simpleValueType": true,
+            "enablingConditions": [
+              {
+                "paramName": "eventName",
+                "paramValue": "category_view",
+                "type": "EQUALS"
+              }
+            ],
+            "help": "Select the GTM variable that returns the ID of the category being viewed.",
+            "subParams": [
+              {
+                "type": "SELECT",
+                "name": "categoryId",
+                "macrosInSelect": true,
+                "selectItems": [],
+                "simpleValueType": true,
+                "enablingConditions": [
+                  {
+                    "paramName": "addCategoryId",
+                    "paramValue": true,
+                    "type": "EQUALS"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "CHECKBOX",
+            "name": "addSearchTerm",
+            "checkboxText": "Search Term",
+            "simpleValueType": true,
+            "help": "Select the GTM variable that returns the string entered by the user for the search. Example: “long dress”",
+            "enablingConditions": [
+              {
+                "paramName": "eventName",
+                "paramValue": "search",
+                "type": "EQUALS"
+              }
+            ],
+            "subParams": [
+              {
+                "type": "SELECT",
+                "name": "searchTerm",
+                "macrosInSelect": true,
+                "selectItems": [],
+                "simpleValueType": true,
+                "enablingConditions": [
+                  {
+                    "paramName": "addSearchTerm",
+                    "paramValue": true,
+                    "type": "EQUALS"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "simpleValueType": true,
+    "enablingConditions": [
+      {
+        "paramName": "pixelType",
+        "paramValue": "event",
+        "type": "EQUALS"
+      }
+    ]
+  },
+  {
     "displayName": "Custom Parameters",
     "name": "customParameters",
     "groupStyle": "ZIPPY_OPEN",
     "type": "GROUP",
     "subParams": [
       {
-        "help": "Add the <code>item-url</code> parameter to specify a custom page URL for your page_view calls. This is useful with single-page applications. See <a href=\"https://help.taboola.com/hc/en-us/articles/360007856794-Developer-Notes\">this documentation</a> for more information.",
-        "simpleValueType": true,
-        "name": "addItemUrl",
-        "checkboxText": "item-url",
         "type": "CHECKBOX",
+        "name": "addItemUrl",
+        "checkboxText": "Item URL",
+        "simpleValueType": true,
+        "help": "Add this parameter to specify a custom page URL for your page_view calls. This is useful with single-page applications. See \u003ca href\u003d\"https://help.taboola.com/hc/en-us/articles/360007856794-Developer-Notes\"\u003ethis documentation\u003c/a\u003e for more information.",
         "subParams": [
           {
+            "type": "TEXT",
+            "name": "itemUrl",
+            "displayName": "",
+            "simpleValueType": true,
+            "valueValidators": [
+              {
+                "type": "NON_EMPTY"
+              }
+            ],
             "enablingConditions": [
               {
                 "paramName": "addItemUrl",
-                "type": "EQUALS",
-                "paramValue": true
+                "paramValue": true,
+                "type": "EQUALS"
               }
-            ],
-            "valueValidators": [
-              {
-                "type": "NON_EMPTY"
-              }
-            ],
-            "simpleValueType": true,
-            "name": "itemUrl",
-            "type": "TEXT"
+            ]
           }
         ]
       },
       {
-        "help": "Add the <code>revenue</code> parameter to specify a custom conversion value for this event. See <a href=\"https://help.taboola.com/hc/en-us/articles/360009027493-Adding-Values-to-Conversions\">this documentation</a> for more information.",
-        "simpleValueType": true,
-        "name": "addRevenue",
-        "checkboxText": "revenue",
         "type": "CHECKBOX",
-        "subParams": [
-          {
-            "enablingConditions": [
-              {
-                "paramName": "addRevenue",
-                "type": "EQUALS",
-                "paramValue": true
-              }
-            ],
-            "valueValidators": [
-              {
-                "args": [
-                  "^[0-9]+(\\.[0-9]+)?$"
-                ],
-                "errorMessage": "The value must be numerical (integer or floating point).",
-                "type": "REGEX"
-              }
-            ],
-            "simpleValueType": true,
-            "name": "revenue",
-            "type": "TEXT"
-          }
-        ]
-      },
-      {
-        "help": "Add the <code>currency</code> parameter to specify a currency for the value passed in the \"revenue\" parameter. See <a href=\"https://help.taboola.com/hc/en-us/articles/360009027493-Adding-Values-to-Conversions\">this documentation</a> for a list of supported currencies.",
-        "simpleValueType": true,
         "name": "addCurrency",
-        "checkboxText": "currency",
-        "type": "CHECKBOX",
+        "checkboxText": "Currency",
+        "simpleValueType": true,
+        "help": "Add this parameter to specify a currency for the value passed in the \"Revenue\" parameter. See \u003ca href\u003d\"https://help.taboola.com/hc/en-us/articles/360009027493-Adding-Values-to-Conversions\"\u003ethis documentation\u003c/a\u003e for a list of supported currencies.",
         "subParams": [
           {
+            "type": "TEXT",
+            "name": "currency",
+            "simpleValueType": true,
             "enablingConditions": [
               {
                 "paramName": "addCurrency",
-                "type": "EQUALS",
-                "paramValue": true
+                "paramValue": true,
+                "type": "EQUALS"
               }
             ],
             "valueValidators": [
               {
+                "type": "REGEX",
                 "args": [
                   "^[a-zA-Z]{3}$"
-                ],
-                "errorMessage": "The value must be a three-letter currency code.",
-                "type": "REGEX"
+                ]
               }
-            ],
-            "simpleValueType": true,
-            "name": "currency",
-            "type": "TEXT"
+            ]
+          }
+        ],
+        "enablingConditions": [
+          {
+            "paramName": "pixelType",
+            "paramValue": "event",
+            "type": "EQUALS"
           }
         ]
       },
       {
-        "help": "Use this field to add other parameters to the call. Refer to the <a href=\"https://help.taboola.com/hc/en-us/articles/360003469854-Taboola-Pixel-Overview\">Taboola Pixel documentation</a> for details on what other parameters are supported.",
-        "simpleValueType": true,
-        "name": "addOther",
-        "checkboxText": "Other parameters",
         "type": "CHECKBOX",
+        "name": "addRevenue",
+        "checkboxText": "Revenue",
+        "simpleValueType": true,
+        "help": "Add this parameter to specify a custom conversion value for this event. See \u003ca href\u003d\"https://help.taboola.com/hc/en-us/articles/360009027493-Adding-Values-to-Conversions\"\u003ethis documentation\u003c/a\u003e for more information.",
         "subParams": [
           {
+            "type": "TEXT",
+            "name": "revenue",
+            "simpleValueType": true,
+            "enablingConditions": [
+              {
+                "paramName": "addRevenue",
+                "paramValue": true,
+                "type": "EQUALS"
+              }
+            ],
             "valueValidators": [
               {
-                "errorMessage": "You must add at least one parameter.",
+                "type": "REGEX",
+                "args": [
+                  "^[0-9]+(\\.[0-9]+)?$"
+                ]
+              }
+            ]
+          }
+        ],
+        "enablingConditions": [
+          {
+            "paramName": "pixelType",
+            "paramValue": "event",
+            "type": "EQUALS"
+          }
+        ]
+      },
+      {
+        "type": "CHECKBOX",
+        "name": "addEmail",
+        "checkboxText": "Email",
+        "simpleValueType": true,
+        "help": "Email to send with the event.",
+        "subParams": [
+          {
+            "type": "TEXT",
+            "name": "email",
+            "displayName": "",
+            "simpleValueType": true,
+            "enablingConditions": [
+              {
+                "paramName": "addEmail",
+                "paramValue": true,
+                "type": "EQUALS"
+              }
+            ],
+            "valueValidators": [
+              {
                 "type": "NON_EMPTY"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "CHECKBOX",
+        "name": "addOtherParameters",
+        "checkboxText": "Other Parameters",
+        "simpleValueType": true,
+        "help": "Any additional key-value pairs to send with the event. Refer to the \u003ca href\u003d\"https://help.taboola.com/hc/en-us/articles/360003469854-Taboola-Pixel-Overview\"\u003eTaboola Pixel documentation\u003c/a\u003e for details on what other parameters are supported.",
+        "subParams": [
+          {
+            "type": "PARAM_TABLE",
+            "name": "otherParameters",
+            "displayName": "",
+            "paramTableColumns": [
+              {
+                "param": {
+                  "type": "TEXT",
+                  "name": "key",
+                  "displayName": "Key",
+                  "simpleValueType": true,
+                  "valueValidators": [
+                    {
+                      "type": "NON_EMPTY"
+                    }
+                  ]
+                },
+                "isUnique": true
+              },
+              {
+                "param": {
+                  "type": "TEXT",
+                  "name": "value",
+                  "displayName": "Value",
+                  "simpleValueType": true,
+                  "valueValidators": [
+                    {
+                      "type": "NON_EMPTY"
+                    }
+                  ]
+                },
+                "isUnique": false
               }
             ],
             "enablingConditions": [
               {
-                "paramName": "addOther",
-                "type": "EQUALS",
-                "paramValue": true
+                "paramName": "addOtherParameters",
+                "paramValue": true,
+                "type": "EQUALS"
               }
             ],
-            "name": "otherParams",
-            "simpleTableColumns": [
+            "valueValidators": [
               {
-                "defaultValue": "",
-                "displayName": "Parameter name",
-                "name": "name",
-                "isUnique": true,
-                "type": "TEXT"
-              },
-              {
-                "defaultValue": "",
-                "displayName": "Parameter value",
-                "name": "value",
-                "type": "TEXT"
+                "type": "TABLE_ROW_COUNT",
+                "args": [
+                  1
+                ]
               }
-            ],
-            "type": "SIMPLE_TABLE"
+            ]
           }
         ]
       }
     ]
   }
 ]
+
+
+___SANDBOXED_JS_FOR_WEB_TEMPLATE___
+
+// ============================== Require necessary APIs ================================
+const createQueue = require('createQueue');
+const injectScript = require('injectScript');
+const copyFromWindow = require('copyFromWindow');
+const makeTableMap = require('makeTableMap');
+const log = require('logToConsole');
+const encodeUriComponent = require('encodeUriComponent');
+const getType = require('getType');
+const copyFromDataLayer = require('copyFromDataLayer');
+const Object = require('Object');
+const sha256 = require('sha256');
+
+// ====================== Generate the global and local variables =======================
+const initPixelPush = createQueue('__tfa_pixel_init');
+const initPixel = copyFromWindow('__tfa_pixel_init');
+const _tfa = createQueue('_tfa');
+const eventNamesWithProductIds = [
+  'add_to_cart', 
+  'add_to_wishlist', 
+  'search', 
+  'start_checkout', 
+  'view_content', 
+  'category_view'
+];
+
+// ======================== Build the payload for the _tfa call =========================
+const params = {
+  notify: 'event',
+  ce: 'unified',
+  id: data.accountId,
+  it: 'GTM',
+  otherParameters: data.otherParameters ? makeTableMap(data.otherParameters, 'key', 'value') : {}
+};
+
+params.otherParameters.gtmTemplateVersion = '1.0.0-unified';
+if (data.itemUrl) params['item-url'] = data.itemUrl;
+if (data.email) params.otherParameters.email = data.email;
+
+// ============== If page_view hasn't been sent for the ID yet, do it now ===============
+if (initPixel.indexOf(data.accountId) === -1) {
+  const pageViewParams = copyParams(params);
+  pageViewParams.name = 'page_view';
+  
+  sendEventWithHashedEmail(pageViewParams);
+  initPixelPush(data.accountId);
+}
+
+// ===================== If the type was 'event', dispatch it here ======================
+if (data.pixelType === 'event') {
+  params.name = data.eventName === 'custom' ? data.customEventName : data.eventName;
+  if (data.revenue) params.revenue = data.revenue;
+  if (data.currency) params.currency = data.currency;
+  
+  if (data.eventStructure === 'ga4') {
+    enrichParamsGa4(params);
+  } else if (data.eventStructure === 'manual') {
+    enrichParamsManual(params);
+  }
+  
+  sendEventWithHashedEmail(params);
+}
+
+// =================== Load the Taboola script if not already loaded ====================
+injectScript(
+  'https://cdn.taboola.com/libtrc/unip/' + encodeUriComponent(data.accountId) + '/tfa.js', 
+  data.gtmOnSuccess, 
+  data.gtmOnFailure, 
+  '_tfa_script'
+);
+
+// ================================== Helper functions ==================================
+function enrichParamsGa4(params) {
+  const ecomm = copyFromDataLayer('ecommerce') || {};
+  if (getType(ecomm.items) === 'array') {
+    if (data.eventName === 'make_purchase') {
+      params.cartDetails = ecomm.items.map(item => ({
+        productId: item.item_id, 
+        quantity: item.quantity, 
+        price: item.price 
+      }));
+      
+      if (ecomm.currency) params.currency = ecomm.currency;
+      if (ecomm.value) params.revenue = ecomm.value;
+      if (ecomm.transaction_id) params.orderId = ecomm.transaction_id;
+    } else if (eventNamesWithProductIds.indexOf(data.eventName) !== -1) {
+      params.productIds = ecomm.items.map(item => item.item_id);
+    }
+  }
+  if (ecomm.custType) params.custType = ecomm.custType;
+}
+
+function enrichParamsManual(params) {
+  if (data.productIds) params.productIds = data.productIds;
+  if (data.currency) params.currency = data.currency;
+  if (data.orderId) params.orderId = data.orderId;
+  if (data.categoryId) params.categoryId = data.categoryId;
+  if (data.category) params.category = data.category;
+  if (data.searchTerm) params.searchTerm = data.searchTerm;
+  if (data.cartDetails) params.cartDetails = data.cartDetails;
+  if (data.revenue) params.revenue = data.revenue;
+  if (data.custType) params.otherParameters.custType = data.custType;
+}
+
+function sendEventWithHashedEmail(params) {
+  if (!params.otherParameters.email) {
+    sendEvent(params);
+  } else {
+    sha256(
+      params.otherParameters.email, 
+      digest => {
+        params.otherParameters.unified_id = digest;
+        sendEvent(params);
+      }, 
+      error => {
+        params.otherParameters.emailHashFailed = 'true';
+        sendEvent(params);
+      }, 
+      {outputEncoding: 'hex'}
+    );
+  }
+}
+
+function sendEvent(params) {
+  if (Object.keys(params.otherParameters).length === 0) {
+    Object.delete(params, 'otherParameters');
+  }
+  
+  _tfa(params);
+}
+
+function copyParams(params) {
+  const newParams = {};
+  const paramKeys = Object.keys(params);
+  
+  for (let i = 0; i < paramKeys.length; i++) {
+    newParams[paramKeys[i]] = params[paramKeys[i]];
+  }
+  
+  return newParams;
+}
 
 
 ___WEB_PERMISSIONS___
@@ -427,63 +895,167 @@ ___WEB_PERMISSIONS___
         }
       ]
     },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "read_data_layer",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "allowedKeys",
+          "value": {
+            "type": 1,
+            "string": "specific"
+          }
+        },
+        {
+          "key": "keyPatterns",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 1,
+                "string": "ecommerce.*"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
     "isRequired": true
   }
 ]
 
 
-___SANDBOXED_JS_FOR_WEB_TEMPLATE___
+___TESTS___
 
-// Require necessary APIs
-const createQueue = require('createQueue');
-const injectScript = require('injectScript');
-const copyFromWindow = require('copyFromWindow');
-const makeTableMap = require('makeTableMap');
-const log = require('logToConsole');
-const encodeUriComponent = require('encodeUriComponent');
+scenarios:
+- name: Base Pixel
+  code: |-
+    const mockData = setUpMockData({ pixelType: 'page_view' });
+    const expectedParams = setUpExpectedParams({ name: 'page_view' });
 
-// Generate the global and local variables
-const initPixelPush = createQueue('__tfa_pixel_init');
-const initPixel = copyFromWindow('__tfa_pixel_init');
-const _tfa = createQueue('_tfa');
+    runTest(mockData, expectedParams);
+- name: Base Pixel - custom properties
+  code: "const mockData = setUpMockData({ \n  pixelType: 'page_view',\n  itemUrl:\
+    \ 'http://example.com',\n  email: 'test@example.com',\n  otherParameters: [\n\
+    \    { key: 'key1', value: 'value1' },\n    { key: 'key2', value: 'value2' }\n\
+    \  ]\n});\n\nconst expectedParams = setUpExpectedParams({ \n  name: 'page_view',\n\
+    \  'item-url': 'http://example.com',\n  otherParameters: {\n    email: 'test@example.com',\n\
+    \    key1: 'value1',\n    key2: 'value2'\n  }\n});\n\nrunTest(mockData, expectedParams);"
+- name: Event Pixel - add_payment_info - manual
+  code: "const eventName = 'add_payment_info';\nconst itemUrl = 'http://example.com';\n\
+    const email = 'test@example.com';\n\nconst mockData = setUpMockData({ \n  pixelType:\
+    \ 'event',\n  eventName: eventName,\n  eventStructure: 'manual',\n  itemUrl: itemUrl,\n\
+    \  email: email\n});\n\nconst expectedParams = setUpExpectedParams({ \n  name:\
+    \ eventName,\n  'item-url': itemUrl,\n  otherParameters: { email: email }\n});\n\
+    \nrunTest(mockData, expectedParams);"
+- name: Event Pixel - make_purchase - manual
+  code: "const eventName = 'make_purchase';\nconst cartDetails = [\n  { productId:\
+    \ 'sku1', quantity: 2, price: 20.5 },\n  { productId: 'sku1', quantity: 1, price:\
+    \ 9.99 }\n];\n\nconst mockData = setUpMockData({ \n  pixelType: 'event',\n  eventName:\
+    \ eventName,\n  eventStructure: 'manual',\n  cartDetails: cartDetails\n});\n\n\
+    const expectedParams = setUpExpectedParams({ \n  name: eventName,\n  cartDetails:\
+    \ cartDetails\n});\n\nrunTest(mockData, expectedParams);"
+- name: Event Pixel - make_purchase - ga4
+  code: "const eventName = 'make_purchase';\nconst orderId = '12';\nconst currency\
+    \ = 'USD';\nconst revenue = 25;\n\nconst mockData = setUpMockData({ \n  pixelType:\
+    \ 'event',\n  eventName: eventName,\n  eventStructure: 'ga4',\n});\n\nconst dataLayer\
+    \ = {\n  ecommerce: {\n    transaction_id: orderId,\n    currency: currency,\n\
+    \    value: revenue,\n    items: [\n      {\n        item_id: '123',\n       \
+    \ quantity: 2,\n        price: 10\n      },\n      {\n        item_id: '345',\n\
+    \        quantity: 1,\n        price: 5\n      }\n    ]\n  }\n};\n\nconst expectedParams\
+    \ = setUpExpectedParams({ \n  name: eventName,\n  cartDetails: [\n    {\n    \
+    \  productId: '123',\n      quantity: 2,\n      price: 10\n    },\n    {\n   \
+    \   productId: '345',\n      quantity: 1,\n      price: 5\n    }\n  ],\n  orderId:\
+    \ orderId,\n  currency: currency,\n  revenue: revenue\n});\n\nrunTest(mockData,\
+    \ expectedParams, dataLayer);"
+- name: Event Pixel - search - manual
+  code: "const eventName = 'search';\nconst productIds = ['sku1', 'sku2'];\nconst\
+    \ searchTerm = 'test';\n\nconst mockData = setUpMockData({ \n  pixelType: 'event',\n\
+    \  eventName: eventName,\n  eventStructure: 'manual',\n  productIds: productIds,\n\
+    \  searchTerm: searchTerm\n});\n\nconst expectedParams = setUpExpectedParams({\
+    \ \n  name: eventName,\n  productIds: productIds,\n  searchTerm: searchTerm\n\
+    });\n\nrunTest(mockData, expectedParams);"
+- name: Event Pixel - category_view - manual
+  code: "const eventName = 'category_view';\nconst productIds = ['sku1', 'sku2'];\n\
+    const category = 'test';\nconst categoryId = '1';\n\nconst mockData = setUpMockData({\
+    \ \n  pixelType: 'event',\n  eventName: eventName,\n  eventStructure: 'manual',\n\
+    \  productIds: productIds,\n  category: category,\n  categoryId: categoryId\n\
+    });\n\nconst expectedParams = setUpExpectedParams({ \n  name: eventName,\n  productIds:\
+    \ productIds,\n  category: category,\n  categoryId: categoryId\n});\n\nrunTest(mockData,\
+    \ expectedParams);"
+- name: Event Pixel - add_to_cart - manual
+  code: "const eventName = 'add_to_cart';\nconst productIds = ['sku1', 'sku2'];\n\n\
+    const mockData = setUpMockData({ \n  pixelType: 'event',\n  eventName: eventName,\n\
+    \  eventStructure: 'manual',\n  productIds: productIds\n});\n\nconst expectedParams\
+    \ = setUpExpectedParams({ \n  name: eventName,\n  productIds: productIds\n});\n\
+    \nrunTest(mockData, expectedParams);"
+- name: Event Pixel - add_to_wishlist - manual
+  code: "const eventName = 'add_to_wishlist';\nconst productIds = ['sku1', 'sku2'];\n\
+    \nconst mockData = setUpMockData({ \n  pixelType: 'event',\n  eventName: eventName,\n\
+    \  eventStructure: 'manual',\n  productIds: productIds\n});\n\nconst expectedParams\
+    \ = setUpExpectedParams({ \n  name: eventName,\n  productIds: productIds\n});\n\
+    \nrunTest(mockData, expectedParams);"
+- name: Event Pixel - start_checkout - manual
+  code: "const eventName = 'start_checkout';\nconst productIds = ['sku1', 'sku2'];\n\
+    \nconst mockData = setUpMockData({ \n  pixelType: 'event',\n  eventName: eventName,\n\
+    \  eventStructure: 'manual',\n  productIds: productIds\n});\n\nconst expectedParams\
+    \ = setUpExpectedParams({ \n  name: eventName,\n  productIds: productIds\n});\n\
+    \nrunTest(mockData, expectedParams);"
+- name: Event Pixel - view_content - manual
+  code: "const eventName = 'view_content';\nconst productIds = ['sku1', 'sku2'];\n\
+    \nconst mockData = setUpMockData({ \n  pixelType: 'event',\n  eventName: eventName,\n\
+    \  eventStructure: 'manual',\n  productIds: productIds\n});\n\nconst expectedParams\
+    \ = setUpExpectedParams({ \n  name: eventName,\n  productIds: productIds\n});\n\
+    \nrunTest(mockData, expectedParams);"
+- name: Event Pixel - search - ga4
+  code: "const eventName = 'search';\n\nconst mockData = setUpMockData({ \n  pixelType:\
+    \ 'event',\n  eventName: eventName,\n  eventStructure: 'ga4',\n});\n\nconst dataLayer\
+    \ = {\n  ecommerce: {\n    items: [{ item_id: '123' }, { item_id: '345' }]\n \
+    \ }\n};\n\nconst expectedParams = setUpExpectedParams({ \n  name: eventName,\n\
+    \  productIds: ['123', '345']\n});\n\nrunTest(mockData, expectedParams, dataLayer);"
+- name: Event Pixel - make_purchase - ga4 - incomplete datalayer
+  code: "const eventName = 'make_purchase';\nconst orderId = '12';\nconst revenue\
+    \ = 25;\n\nconst mockData = setUpMockData({ \n  pixelType: 'event',\n  eventName:\
+    \ eventName,\n  eventStructure: 'ga4',\n});\n\nconst dataLayer = {\n  ecommerce:\
+    \ {\n    transaction_id: orderId,\n    value: revenue,\n    items: [\n      {\n\
+    \        item_id: '123',\n        price: 10\n      },\n      {\n        item_id:\
+    \ '345',\n        quantity: 1\n      }\n    ]\n  }\n};\n\nconst expectedParams\
+    \ = setUpExpectedParams({ \n  name: eventName,\n  cartDetails: [\n    {\n    \
+    \  productId: '123',\n      quantity: undefined,\n      price: 10\n    },\n  \
+    \  {\n      productId: '345',\n      quantity: 1,\n      price: undefined\n  \
+    \  }\n  ],\n  orderId: orderId,\n  revenue: revenue\n});\n\nrunTest(mockData,\
+    \ expectedParams, dataLayer);"
+setup: "const ACCOUNT_ID = '1';\n\nfunction mockCreateQueue(expectedParams) {\n  mock('createQueue',\
+  \ name => {\n    if (name === '__tfa_pixel_init') {\n      return item => assertThat(item).isEqualTo(expectedParams.id);\n\
+  \    }\n    if (name === '_tfa') {\n      return item => assertThat(item).isEqualTo(expectedParams);\n\
+  \    }\n  });\n}\n\nfunction mockCopyFromWindow(isEventPixel) {\n  mock('copyFromWindow',\
+  \ name => isEventPixel ? [ACCOUNT_ID] : []);\n}\n\nfunction mockCopyFromDataLayer(dataLayer)\
+  \ {\n  mock('copyFromDataLayer', field => dataLayer[field]);\n}\n\nfunction setUpMockData(mockData)\
+  \ {\n  const defaults = {\n    accountId: ACCOUNT_ID\n  };\n  \n  for (const key\
+  \ in mockData) {\n    defaults[key] = mockData[key];\n  }\n  \n  return defaults;\n\
+  }\n\nfunction setUpExpectedParams(expectedParams) {\n  const defaults = {\n    notify:\
+  \ 'event',\n    ce: 'unified',\n    id: ACCOUNT_ID,\n    it: 'GTM',\n    otherParameters:\
+  \ {\n      gtmTemplateVersion: '1.0.0-unified'\n    }\n  };\n  \n  for (const key\
+  \ in expectedParams) {\n    defaults[key] = expectedParams[key];\n  }\n  \n  return\
+  \ defaults;\n}\n\nfunction runTest(mockData, expectedParams, dataLayer) {\n  const\
+  \ isEventPixel = mockData.pixelType === 'event';\n  mockCreateQueue(expectedParams);\n\
+  \  mockCopyFromWindow(isEventPixel);\n  mockCopyFromDataLayer(dataLayer);\n  \n\
+  \  runCode(mockData);\n  \n  assertApi('injectScript').wasCalled();\n}"
 
-// Capture user input from the tag
-const accountId = data.accountId;
-const pixelType = data.pixelType;
-const eventName = data.eventName === 'custom' ? data.customEventName : data.eventName;
-const otherParams = data.otherParams ? makeTableMap(data.otherParams, 'name', 'value') : {};
 
-// Build the payload for the _tfa call
-const params = {
-  notify: 'event',
-  id: accountId,
-  it: 'GTM'
-};
-if (data.itemUrl) params['item-url'] = data.itemUrl;
-if (data.revenue) params.revenue = data.revenue;
-if (data.currency) params.currency = data.currency;
-for (let prop in otherParams) {
-  params[prop] = otherParams[prop];
-}
+___NOTES___
 
-// If page_view hasn't been sent for the ID yet, do it now
-if (initPixel.indexOf(accountId) === -1) {
-  const pvParams = {
-    notify: 'event',
-    id: accountId,
-    name: 'page_view',
-    it: 'GTM'
-  };
-  if (data.itemUrl) pvParams['item-url'] = data.itemUrl;
-  _tfa(pvParams);
-  initPixelPush(accountId);
-}
+Created on 11/06/2026, 16:44:04
 
-// If the type was "event", dispatch it here
-if (pixelType === 'event') {
-  params.name = eventName;
-  _tfa(params);
-}
 
-// Load the Taboola script if not already loaded
-injectScript('https://cdn.taboola.com/libtrc/unip/' + encodeUriComponent(accountId) + '/tfa.js', data.gtmOnSuccess, data.gtmOnFailure, '_tfa_script');
